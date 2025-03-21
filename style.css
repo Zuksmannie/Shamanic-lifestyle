@@ -437,7 +437,7 @@ h3{
     padding: 8px 16px;
     width: 35%;
     border-radius: 55px;
-    border: none; color:
+    border: none; color: white;
 }
 
 .soullife{
@@ -739,13 +739,13 @@ p{
     
     }
 
-    .donate-button{}
     
     .donate-button{
         padding: 8px 16px;
         width: 35%;
         border-radius: 55px;
-        border: none; color:
+        border: none;
+        color: white;
     }
     
     .soullife{
